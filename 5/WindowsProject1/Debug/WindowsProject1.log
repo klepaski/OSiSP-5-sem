@@ -1,0 +1,3 @@
+﻿  WindowsProject1.cpp
+d:\3\осисп\5\windowsproject1\windowsproject1.cpp(127): warning C4101: wmId: неиспользованная локальная переменная
+  WindowsProject1.vcxproj -> D:\3\ОСиСП\5\Debug\WindowsProject1.exe
