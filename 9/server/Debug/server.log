@@ -1,0 +1,4 @@
+﻿  server.cpp
+d:\3\осисп\9\server\server.cpp(30): warning C4101: answer: неиспользованная локальная переменная
+d:\3\осисп\9\server\server.cpp(28): warning C4101: hMS: неиспользованная локальная переменная
+  server.vcxproj -> D:\3\ОСиСП\9\Debug\server.exe
