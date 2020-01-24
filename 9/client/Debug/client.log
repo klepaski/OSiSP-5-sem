@@ -1,0 +1,3 @@
+﻿  client.cpp
+d:\3\осисп\9\client\client.cpp(29): warning C4101: nData: неиспользованная локальная переменная
+  client.vcxproj -> D:\3\ОСиСП\9\Debug\client.exe

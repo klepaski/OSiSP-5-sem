@@ -1,0 +1,3 @@
+﻿  client2.cpp
+d:\3\осисп\9\client2\client2.cpp(23): warning C4101: nData: неиспользованная локальная переменная
+  client2.vcxproj -> D:\3\ОСиСП\9\Debug\client2.exe
